@@ -1,0 +1,7 @@
+{
+  "extends": ["react-app"],
+  "rules": {
+    "no-console": "error"
+  },
+  "lint": "eslint --ext .js,.jsx ."
+}
